@@ -36,3 +36,5 @@
 - 1.12: log₃(x)>2, soluzione x>9, corretta.
 - 1.13: log₂(x)<4, individuato x<16 ma omessa la condizione x>0; risultato completo 0<x<16.
 - **Prossimo esercizio**: disequazione logaritmica con argomento traslato, verificando il dominio.
+
+- **1.14:** log₃(x−2)>2: corretta trasformazione x−2>9; errore aritmetico finale (x>7). Correzione: x>11; dominio x>2. Prossimo: esercizio 1.15, consolidamento disequazioni con argomento traslato.
