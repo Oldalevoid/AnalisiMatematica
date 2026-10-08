@@ -30,3 +30,9 @@
 5. Registrare le nuove risposte sul file degli esercizi e aggiornare questo documento.
 
 **Regola:** mai segnare esercizi come svolti senza una risposta dell'utente.
+
+## Aggiornamento esercizi sulle disequazioni — 8 ottobre 2026
+- 1.11: log₂(x)>3, soluzione x>8, corretta dopo chiarimento.
+- 1.12: log₃(x)>2, soluzione x>9, corretta.
+- 1.13: log₂(x)<4, individuato x<16 ma omessa la condizione x>0; risultato completo 0<x<16.
+- **Prossimo esercizio**: disequazione logaritmica con argomento traslato, verificando il dominio.
