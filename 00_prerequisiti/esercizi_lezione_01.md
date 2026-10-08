@@ -2,7 +2,7 @@
 
 [← Teoria](lezione_01_logaritmi.md) · [Indice](../README.md) · [Progressi](../PROGRESSI.md)
 
-> **Stato:** esercizio **1.15** ancora da svolgere. I risultati qui riportati sono quelli effettivamente emersi durante il corso.
+> **Stato:** esercizio **1.16** corretto; prossimo esercizio **1.17**. I risultati qui riportati sono quelli effettivamente emersi durante il corso.
 
 ## Registro
 
@@ -22,7 +22,7 @@
 | 1.12 | $\log_3(x)>2$ | ✅ $x>9$ | Corretta |
 | 1.13 | $\log_2(x)<4$ | ◐ | Ricavato $x<16$, ma mancava $x>0$; risultato $0<x<16$ |
 | 1.14 | $\log_3(x-2)>2$ | ◐ | Ricavato $x-2>9$; errore finale: $x>11$, non $x>7$ |
-| 1.15 | $\log_2(x+3)<4$ | ⏳ | **Da svolgere** |
+| 1.15 | $\log_2(x+3)<4$ | ◐ | Corretta disuguaglianza $x<13$, mancava dominio $x>-3$; soluzione $-3<x<13$. |
 
 **Bilancio della prima serie (1.1–1.10):** 8/10 risposte corrette. Non confondere questo parziale con un voto d'esame.
 
@@ -61,3 +61,11 @@ $$
 ---
 
 *Regola didattica:* correggere un esercizio e aggiornare il registro **solo dopo** la risposta dello studente.
+
+## Esercizio 1.16
+
+**Traccia:** $\log_2(x-5)<3$.
+
+**Risposta:** $5<x<13$, corretta. Precisazione: 13 non e un valore della funzione, ma estremo superiore escluso dell'insieme delle soluzioni.
+
+**Prossimo:** esercizio 1.17.
