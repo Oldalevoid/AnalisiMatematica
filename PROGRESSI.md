@@ -38,3 +38,5 @@
 - **Prossimo esercizio**: disequazione logaritmica con argomento traslato, verificando il dominio.
 
 - **1.14:** log₃(x−2)>2: corretta trasformazione x−2>9; errore aritmetico finale (x>7). Correzione: x>11; dominio x>2. Prossimo: esercizio 1.15, consolidamento disequazioni con argomento traslato.
+
+- **1.15:** $\log_2(x+3)<4$: risposta $x<13$ corretta per la trasformazione ma incompleta senza dominio $x>-3$. Risposta completa: $-3<x<13$. Prossimo esercizio 1.16: applicazione del dominio alle disequazioni.
