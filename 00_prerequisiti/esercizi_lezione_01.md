@@ -28,3 +28,5 @@ Esercizi effettivamente affrontati nella conversazione fino all'8 ottobre 2026. 
 - Richiedere una spiegazione in parole proprie.
 - Correggere eventuali errori e proporre un esercizio analogo.
 - Aggiornare questa tabella solo dopo una risposta effettiva.
+
+| 1.14 | log₃(x−2)>2 | ◐ | Corretto x−2>9, ma errore nell'isolamento: x>11, non x>7. Dominio x>2. |
